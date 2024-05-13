@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AMST4.Carousel.MVC.props" />
+</Project>
