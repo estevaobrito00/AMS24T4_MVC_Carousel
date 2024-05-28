@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\2°Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj": {}
+    "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj": {}
   },
   "projects": {
-    "D:\\2°Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj": {
+    "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\2°Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj",
+        "projectUniqueName": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj",
         "projectName": "AMST4.Carousel.MVC",
-        "projectPath": "D:\\2°Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj",
-        "packagesPath": "C:\\Users\\RaulM\\.nuget\\packages\\",
-        "outputPath": "D:\\2°Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\obj\\",
+        "projectPath": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj",
+        "packagesPath": "C:\\Users\\gabriel\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\RaulM\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\gabriel\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -95,7 +95,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

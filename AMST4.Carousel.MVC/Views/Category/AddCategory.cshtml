@@ -4,38 +4,39 @@
     ViewData["Title"] = "AddCategory";
 }
 
-<h1>AddCategory</h1>
-
-<h4>Category</h4>
+<h1>Nova Categoria</h1>
+<br>
+<h4>Categoria</h4>
 <hr />
 <div class="row">
     <div class="col-md-4">
-        <form asp-action="AddCategory">
+        <form method="post" asp-action="AddCategory" enctype="multipart/form-data">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
-                <label asp-for="Description" class="control-label"></label>
+                <label asp-for="Description" class="control-label">Descrição</label>
                 <input asp-for="Description" class="form-control" />
                 <span asp-validation-for="Description" class="text-danger"></span>
             </div>
             <div class="form-group">
-                <label asp-for="ImageUrl" class="control-label"></label>
-                <input asp-for="ImageUrl" class="form-control" />
+                <label asp-for="ImageUrl" class="control-label">URL da imagem</label>
+                <input type="file" name="image" class="form-control" />
                 <span asp-validation-for="ImageUrl" class="text-danger"></span>
             </div>
-            <div class="form-group form-check">
-                <label class="form-check-label">
-                    <input class="form-check-input" asp-for="IsActive" /> @Html.DisplayNameFor(model => model.IsActive)
-                </label>
-            </div>
             <div class="form-group">
-                <input type="submit" value="Create" class="btn btn-primary" />
+                <label asp-for="CreatedAt" class="control-label">Data de criação</label>
+                <input asp-for="CreatedAt" class="form-control" />
+                <span asp-validation-for="CreatedAt" class="text-danger"></span>
+            </div>
+            <br>
+            <div class="form-group">
+                <input type="submit" value="Criar" class="btn btn-primary" />
             </div>
         </form>
     </div>
 </div>
 
 <div>
-    <a asp-action="CategoryList">Back to List</a>
+    <a asp-action="CategoryList">Voltar à lista</a>
 </div>
 
 @section Scripts {

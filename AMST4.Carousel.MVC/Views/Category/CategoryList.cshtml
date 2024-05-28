@@ -4,10 +4,10 @@
     ViewData["Title"] = "CategoryList";
 }
 
-<h1>CategoryList</h1>
+<h1>Lista de Categorias</h1>
 
 <p>
-    <a asp-action="AddCategory">Create New</a>
+    <a asp-action="AddCategory">Nova Categoria</a>
 </p>
 <table class="table">
     <thead>
@@ -19,7 +19,7 @@
                 @Html.DisplayNameFor(model => model.ImageUrl)
             </th>
             <th>
-                @Html.DisplayNameFor(model => model.IsActive)
+                @Html.DisplayNameFor(model => model.CreatedAt)
             </th>
             <th></th>
         </tr>
@@ -33,13 +33,16 @@
             <td>
                 @Html.DisplayFor(modelItem => item.ImageUrl)
             </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.CreatedAt)
+                </td>
            @*  <td>
                 @Html.DisplayFor(modelItem => item.IsActive)
             </td> *@
             <td>
-                <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a>
+                <a asp-action="Edit" asp-route-id="@item.Id">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Detalhes</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Deletar</a>
             </td>
         </tr>
 }

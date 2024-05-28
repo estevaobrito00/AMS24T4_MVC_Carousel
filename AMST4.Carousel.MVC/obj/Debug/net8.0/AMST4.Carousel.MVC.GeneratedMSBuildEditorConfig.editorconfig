@@ -17,59 +17,99 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AMST4.Carousel.MVC
 build_property.RootNamespace = AMST4.Carousel.MVC
-build_property.ProjectDir = D:\2°Ano\jeferson\socorro\AMST4.Carousel\AMST4.Carousel.MVC\
+build_property.ProjectDir = C:\Users\gabriel\Desktop\AMST4.Carousel\AMST4.Carousel.MVC\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\2°Ano\jeferson\socorro\AMST4.Carousel\AMST4.Carousel.MVC
+build_property.MSBuildProjectDirectory = C:\Users\gabriel\Desktop\AMST4.Carousel\AMST4.Carousel.MVC
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/2°Ano/jeferson/socorro/AMST4.Carousel/AMST4.Carousel.MVC/Views/Category/AddCategory.cshtml]
+[C:/Users/gabriel/Desktop/AMST4.Carousel/AMST4.Carousel.MVC/Views/Category/AddCategory.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQWRkQ2F0ZWdvcnkuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/2°Ano/jeferson/socorro/AMST4.Carousel/AMST4.Carousel.MVC/Views/Category/CategoryList.cshtml]
+[C:/Users/gabriel/Desktop/AMST4.Carousel/AMST4.Carousel.MVC/Views/Category/CategoryList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcQ2F0ZWdvcnlMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/2°Ano/jeferson/socorro/AMST4.Carousel/AMST4.Carousel.MVC/Views/Home/Index.cshtml]
+[C:/Users/gabriel/Desktop/AMST4.Carousel/AMST4.Carousel.MVC/Views/Category/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabriel/Desktop/AMST4.Carousel/AMST4.Carousel.MVC/Views/Category/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabriel/Desktop/AMST4.Carousel/AMST4.Carousel.MVC/Views/Category/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2F0ZWdvcnlcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabriel/Desktop/AMST4.Carousel/AMST4.Carousel.MVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/2°Ano/jeferson/socorro/AMST4.Carousel/AMST4.Carousel.MVC/Views/Home/Privacy.cshtml]
+[C:/Users/gabriel/Desktop/AMST4.Carousel/AMST4.Carousel.MVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/2°Ano/jeferson/socorro/AMST4.Carousel/AMST4.Carousel.MVC/Views/Product/AddProduct.cshtml]
+[C:/Users/gabriel/Desktop/AMST4.Carousel/AMST4.Carousel.MVC/Views/Product/AddProduct.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxBZGRQcm9kdWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/2°Ano/jeferson/socorro/AMST4.Carousel/AMST4.Carousel.MVC/Views/Product/ProductList.cshtml]
+[C:/Users/gabriel/Desktop/AMST4.Carousel/AMST4.Carousel.MVC/Views/Product/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabriel/Desktop/AMST4.Carousel/AMST4.Carousel.MVC/Views/Product/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabriel/Desktop/AMST4.Carousel/AMST4.Carousel.MVC/Views/Product/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabriel/Desktop/AMST4.Carousel/AMST4.Carousel.MVC/Views/Product/ProductList.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0TGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/2°Ano/jeferson/socorro/AMST4.Carousel/AMST4.Carousel.MVC/Views/Shared/Error.cshtml]
+[C:/Users/gabriel/Desktop/AMST4.Carousel/AMST4.Carousel.MVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/2°Ano/jeferson/socorro/AMST4.Carousel/AMST4.Carousel.MVC/Views/Shared/_Carousel.cshtml]
+[C:/Users/gabriel/Desktop/AMST4.Carousel/AMST4.Carousel.MVC/Views/Shared/_Carousel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DYXJvdXNlbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/2°Ano/jeferson/socorro/AMST4.Carousel/AMST4.Carousel.MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/gabriel/Desktop/AMST4.Carousel/AMST4.Carousel.MVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/2°Ano/jeferson/socorro/AMST4.Carousel/AMST4.Carousel.MVC/Views/_ViewImports.cshtml]
+[C:/Users/gabriel/Desktop/AMST4.Carousel/AMST4.Carousel.MVC/Views/Size/AddSize.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l6ZVxBZGRTaXplLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabriel/Desktop/AMST4.Carousel/AMST4.Carousel.MVC/Views/Size/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l6ZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabriel/Desktop/AMST4.Carousel/AMST4.Carousel.MVC/Views/Size/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l6ZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabriel/Desktop/AMST4.Carousel/AMST4.Carousel.MVC/Views/Size/SizeList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2l6ZVxTaXplTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gabriel/Desktop/AMST4.Carousel/AMST4.Carousel.MVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/2°Ano/jeferson/socorro/AMST4.Carousel/AMST4.Carousel.MVC/Views/_ViewStart.cshtml]
+[C:/Users/gabriel/Desktop/AMST4.Carousel/AMST4.Carousel.MVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/2°Ano/jeferson/socorro/AMST4.Carousel/AMST4.Carousel.MVC/Views/Shared/_Layout.cshtml]
+[C:/Users/gabriel/Desktop/AMST4.Carousel/AMST4.Carousel.MVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-ty1tb8uq6u

@@ -6,6 +6,6 @@
         public string Description { get; set; }
         public string ImageUrl { get; set; }
         public bool IsActive { get; set; }
+        public DateTime CreatedAt { get; set; }
     }
 }
-

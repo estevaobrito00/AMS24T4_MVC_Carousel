@@ -1,77 +1,137 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\",
+  "WorkspaceRootPath": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Product\\ProductList.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AMST4.Carousel.MVC\\Views\\Product\\ProductList.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|c:\\users\\gabriel\\desktop\\amst4.carousel\\amst4.carousel.mvc\\views\\size\\addsize.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|solutionrelative:amst4.carousel.mvc\\views\\size\\addsize.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AMST4.Carousel.MVC\\Views\\Shared\\_Layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|c:\\users\\gabriel\\desktop\\amst4.carousel\\amst4.carousel.mvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|solutionrelative:amst4.carousel.mvc\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|c:\\users\\gabriel\\desktop\\amst4.carousel\\amst4.carousel.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|solutionrelative:amst4.carousel.mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|c:\\users\\gabriel\\desktop\\amst4.carousel\\amst4.carousel.mvc\\views\\shared\\_carousel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|solutionrelative:amst4.carousel.mvc\\views\\shared\\_carousel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|c:\\users\\gabriel\\desktop\\amst4.carousel\\amst4.carousel.mvc\\views\\product\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|solutionrelative:amst4.carousel.mvc\\views\\product\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|c:\\users\\gabriel\\desktop\\amst4.carousel\\amst4.carousel.mvc\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|solutionrelative:amst4.carousel.mvc\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|c:\\users\\gabriel\\desktop\\amst4.carousel\\amst4.carousel.mvc\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|solutionrelative:amst4.carousel.mvc\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|c:\\users\\gabriel\\desktop\\amst4.carousel\\amst4.carousel.mvc\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|solutionrelative:amst4.carousel.mvc\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|c:\\users\\gabriel\\desktop\\amst4.carousel\\amst4.carousel.mvc\\views\\product\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|solutionrelative:amst4.carousel.mvc\\views\\product\\addproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|c:\\users\\gabriel\\desktop\\amst4.carousel\\amst4.carousel.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|solutionrelative:amst4.carousel.mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|c:\\users\\gabriel\\desktop\\amst4.carousel\\amst4.carousel.mvc\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|solutionrelative:amst4.carousel.mvc\\views\\category\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|c:\\users\\gabriel\\desktop\\amst4.carousel\\amst4.carousel.mvc\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|solutionrelative:amst4.carousel.mvc\\views\\category\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|c:\\users\\gabriel\\desktop\\amst4.carousel\\amst4.carousel.mvc\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|solutionrelative:amst4.carousel.mvc\\views\\category\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|c:\\users\\gabriel\\desktop\\amst4.carousel\\amst4.carousel.mvc\\views\\category\\categorylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|solutionrelative:amst4.carousel.mvc\\views\\category\\categorylist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|c:\\users\\gabriel\\desktop\\amst4.carousel\\amst4.carousel.mvc\\views\\category\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|solutionrelative:amst4.carousel.mvc\\views\\category\\addcategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|c:\\users\\gabriel\\desktop\\amst4.carousel\\amst4.carousel.mvc\\views\\size\\sizelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|solutionrelative:amst4.carousel.mvc\\views\\size\\sizelist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|c:\\users\\gabriel\\desktop\\amst4.carousel\\amst4.carousel.mvc\\views\\size\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|solutionrelative:amst4.carousel.mvc\\views\\size\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|c:\\users\\gabriel\\desktop\\amst4.carousel\\amst4.carousel.mvc\\views\\size\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|solutionrelative:amst4.carousel.mvc\\views\\size\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|c:\\users\\gabriel\\desktop\\amst4.carousel\\amst4.carousel.mvc\\models\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|solutionrelative:amst4.carousel.mvc\\models\\size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|c:\\users\\gabriel\\desktop\\amst4.carousel\\amst4.carousel.mvc\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|solutionrelative:amst4.carousel.mvc\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|c:\\users\\gabriel\\desktop\\amst4.carousel\\amst4.carousel.mvc\\migrations\\20240528213455_size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|solutionrelative:amst4.carousel.mvc\\migrations\\20240528213455_size.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|c:\\users\\gabriel\\desktop\\amst4.carousel\\amst4.carousel.mvc\\controllers\\sizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|solutionrelative:amst4.carousel.mvc\\controllers\\sizecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|c:\\users\\gabriel\\desktop\\amst4.carousel\\amst4.carousel.mvc\\migrations\\20240519195607_upgrademodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|solutionrelative:amst4.carousel.mvc\\migrations\\20240519195607_upgrademodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|c:\\users\\gabriel\\desktop\\amst4.carousel\\amst4.carousel.mvc\\context\\applicationdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|solutionrelative:amst4.carousel.mvc\\context\\applicationdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|c:\\users\\gabriel\\desktop\\amst4.carousel\\amst4.carousel.mvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|solutionrelative:amst4.carousel.mvc\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|c:\\users\\gabriel\\desktop\\amst4.carousel\\amst4.carousel.mvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|solutionrelative:amst4.carousel.mvc\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|c:\\users\\gabriel\\desktop\\amst4.carousel\\amst4.carousel.mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|solutionrelative:amst4.carousel.mvc\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|c:\\users\\gabriel\\desktop\\amst4.carousel\\amst4.carousel.mvc\\migrations\\applicationdatacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|solutionrelative:amst4.carousel.mvc\\migrations\\applicationdatacontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|c:\\users\\gabriel\\desktop\\amst4.carousel\\amst4.carousel.mvc\\migrations\\20240512150415_add product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|solutionrelative:amst4.carousel.mvc\\migrations\\20240512150415_add product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|c:\\users\\gabriel\\desktop\\amst4.carousel\\amst4.carousel.mvc\\migrations\\20240422173730_first migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|solutionrelative:amst4.carousel.mvc\\migrations\\20240422173730_first migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Product\\AddProduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AMST4.Carousel.MVC\\Views\\Product\\AddProduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|c:\\users\\gabriel\\desktop\\amst4.carousel\\amst4.carousel.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|solutionrelative:amst4.carousel.mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AMST4.Carousel.MVC\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Context\\ApplicationDataContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AMST4.Carousel.MVC\\Context\\ApplicationDataContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Controllers\\CategoryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AMST4.Carousel.MVC\\Controllers\\CategoryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Models\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AMST4.Carousel.MVC\\Models\\Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Migrations\\20240512150415_Add Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AMST4.Carousel.MVC\\Migrations\\20240512150415_Add Product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Migrations\\ApplicationDataContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AMST4.Carousel.MVC\\Migrations\\ApplicationDataContextModelSnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Models\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AMST4.Carousel.MVC\\Models\\Category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Category\\AddCategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AMST4.Carousel.MVC\\Views\\Category\\AddCategory.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Category\\CategoryList.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AMST4.Carousel.MVC\\Views\\Category\\CategoryList.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Shared\\_Carousel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AMST4.Carousel.MVC\\Views\\Shared\\_Carousel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Migrations\\20240422173730_First Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AMST4.Carousel.MVC\\Migrations\\20240422173730_First Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AMST4.Carousel.MVC\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AMST4.Carousel.MVC\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AMST4.Carousel.MVC\\appsettings.Development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|c:\\users\\gabriel\\desktop\\amst4.carousel\\amst4.carousel.mvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{2384336D-5A4B-47B3-8C47-72523AF52B31}|AMST4.Carousel.MVC\\AMST4.Carousel.MVC.csproj|solutionrelative:amst4.carousel.mvc\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -81,105 +141,352 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductList.cshtml",
-              "DocumentMoniker": "D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Product\\ProductList.cshtml",
-              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Views\\Product\\ProductList.cshtml",
-              "ToolTip": "D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Product\\ProductList.cshtml",
-              "RelativeToolTip": "AMST4.Carousel.MVC\\Views\\Product\\ProductList.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAAAkAAAAdAAAA",
+              "DocumentIndex": 5,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "AMST4.Carousel.MVC\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-12T16:53:55.523Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "AddProduct.cshtml",
-              "DocumentMoniker": "D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Product\\AddProduct.cshtml",
-              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Views\\Product\\AddProduct.cshtml",
-              "ToolTip": "D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Product\\AddProduct.cshtml",
-              "RelativeToolTip": "AMST4.Carousel.MVC\\Views\\Product\\AddProduct.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACoAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-12T16:51:23.542Z"
+              "WhenOpened": "2024-05-19T18:08:06.485Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Controllers\\ProductsController.cs",
-              "ToolTip": "D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "AMST4.Carousel.MVC\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAABUAAAAAAAAAAAAqwCIAAAA4AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T15:13:27.964Z"
+              "Title": "ProductList.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Product\\ProductList.cshtml",
+              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Views\\Product\\ProductList.cshtml",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Product\\ProductList.cshtml",
+              "RelativeToolTip": "AMST4.Carousel.MVC\\Views\\Product\\ProductList.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-13T17:37:25.562Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ApplicationDataContext.cs",
-              "DocumentMoniker": "D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Context\\ApplicationDataContext.cs",
-              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Context\\ApplicationDataContext.cs",
-              "ToolTip": "D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Context\\ApplicationDataContext.cs",
-              "RelativeToolTip": "AMST4.Carousel.MVC\\Context\\ApplicationDataContext.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T17:33:10.731Z"
+              "DocumentIndex": 3,
+              "Title": "_Carousel.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Shared\\_Carousel.cshtml",
+              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Views\\Shared\\_Carousel.cshtml",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Shared\\_Carousel.cshtml",
+              "RelativeToolTip": "AMST4.Carousel.MVC\\Views\\Shared\\_Carousel.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-20T16:17:06.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AMST4.Carousel.MVC\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-06T16:41:37.017Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "AMST4.Carousel.MVC\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAmwB8AAACDAAAA",
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "AMST4.Carousel.MVC\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-06T16:41:37.017Z",
+              "WhenOpened": "2024-05-19T18:47:13.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddSize.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Size\\AddSize.cshtml",
+              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Views\\Size\\AddSize.cshtml",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Size\\AddSize.cshtml",
+              "RelativeToolTip": "AMST4.Carousel.MVC\\Views\\Size\\AddSize.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T20:59:20.689Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "CategoryController.cs",
-              "DocumentMoniker": "D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Controllers\\CategoryController.cs",
-              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Controllers\\CategoryController.cs",
-              "ToolTip": "D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Controllers\\CategoryController.cs",
-              "RelativeToolTip": "AMST4.Carousel.MVC\\Controllers\\CategoryController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-29T17:14:10.62Z"
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Views\\Product\\Details.cshtml",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "AMST4.Carousel.MVC\\Views\\Product\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T18:07:45.631Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Models\\Product.cs",
-              "ToolTip": "D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Models\\Product.cs",
-              "RelativeToolTip": "AMST4.Carousel.MVC\\Models\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-12T14:54:07.565Z"
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "AMST4.Carousel.MVC\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T18:07:14.612Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "AddProduct.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Product\\AddProduct.cshtml",
+              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Views\\Product\\AddProduct.cshtml",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Product\\AddProduct.cshtml",
+              "RelativeToolTip": "AMST4.Carousel.MVC\\Views\\Product\\AddProduct.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T16:51:23.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Category\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Views\\Category\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Category\\Edit.cshtml",
+              "RelativeToolTip": "AMST4.Carousel.MVC\\Views\\Category\\Edit.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABoAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T18:29:17.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Category\\Details.cshtml",
+              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Views\\Category\\Details.cshtml",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Category\\Details.cshtml",
+              "RelativeToolTip": "AMST4.Carousel.MVC\\Views\\Category\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T18:29:02.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Category\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Views\\Category\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Category\\Delete.cshtml",
+              "RelativeToolTip": "AMST4.Carousel.MVC\\Views\\Category\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T18:28:13.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryList.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Category\\CategoryList.cshtml",
+              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Views\\Category\\CategoryList.cshtml",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Category\\CategoryList.cshtml",
+              "RelativeToolTip": "AMST4.Carousel.MVC\\Views\\Category\\CategoryList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-01T13:28:24.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AddCategory.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Category\\AddCategory.cshtml",
+              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Views\\Category\\AddCategory.cshtml",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Category\\AddCategory.cshtml",
+              "RelativeToolTip": "AMST4.Carousel.MVC\\Views\\Category\\AddCategory.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-12T14:36:36.351Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SizeList.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Size\\SizeList.cshtml",
+              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Views\\Size\\SizeList.cshtml",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Size\\SizeList.cshtml",
+              "RelativeToolTip": "AMST4.Carousel.MVC\\Views\\Size\\SizeList.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T21:01:09.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CategoryController.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Controllers\\CategoryController.cs",
+              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Controllers\\CategoryController.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Controllers\\CategoryController.cs",
+              "RelativeToolTip": "AMST4.Carousel.MVC\\Controllers\\CategoryController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAA1wDYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T18:12:54.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "AMST4.Carousel.MVC\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-19T19:08:50.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Size.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Models\\Size.cs",
+              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Models\\Size.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Models\\Size.cs",
+              "RelativeToolTip": "AMST4.Carousel.MVC\\Models\\Size.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T18:09:28.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20240528213455_Size.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Migrations\\20240528213455_Size.cs",
+              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Migrations\\20240528213455_Size.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Migrations\\20240528213455_Size.cs",
+              "RelativeToolTip": "AMST4.Carousel.MVC\\Migrations\\20240528213455_Size.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAiwBQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T21:34:56.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Size\\Edit.cshtml",
+              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Views\\Size\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Size\\Edit.cshtml",
+              "RelativeToolTip": "AMST4.Carousel.MVC\\Views\\Size\\Edit.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T21:00:55.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Size\\Delete.cshtml",
+              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Views\\Size\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Size\\Delete.cshtml",
+              "RelativeToolTip": "AMST4.Carousel.MVC\\Views\\Size\\Delete.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACMAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-28T21:00:39.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SizeController.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Controllers\\SizeController.cs",
+              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Controllers\\SizeController.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Controllers\\SizeController.cs",
+              "RelativeToolTip": "AMST4.Carousel.MVC\\Controllers\\SizeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-28T18:17:04.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240519195607_UpgradeModel.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Migrations\\20240519195607_UpgradeModel.cs",
+              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Migrations\\20240519195607_UpgradeModel.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Migrations\\20240519195607_UpgradeModel.cs",
+              "RelativeToolTip": "AMST4.Carousel.MVC\\Migrations\\20240519195607_UpgradeModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T19:56:08.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Models\\Product.cs",
+              "RelativeToolTip": "AMST4.Carousel.MVC\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T19:52:47.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Models\\Category.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Models\\Category.cs",
+              "RelativeToolTip": "AMST4.Carousel.MVC\\Models\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T17:44:05.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApplicationDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Context\\ApplicationDataContext.cs",
+              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Context\\ApplicationDataContext.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Context\\ApplicationDataContext.cs",
+              "RelativeToolTip": "AMST4.Carousel.MVC\\Context\\ApplicationDataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-22T17:33:10.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "AMST4.Carousel.MVC\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAA5wDgAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T17:48:54.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ApplicationDataContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Migrations\\ApplicationDataContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Migrations\\ApplicationDataContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Migrations\\ApplicationDataContextModelSnapshot.cs",
+              "RelativeToolTip": "AMST4.Carousel.MVC\\Migrations\\ApplicationDataContextModelSnapshot.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T01:42:54.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
               "Title": "20240512150415_Add Product.cs",
-              "DocumentMoniker": "D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Migrations\\20240512150415_Add Product.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Migrations\\20240512150415_Add Product.cs",
               "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Migrations\\20240512150415_Add Product.cs",
-              "ToolTip": "D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Migrations\\20240512150415_Add Product.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Migrations\\20240512150415_Add Product.cs",
               "RelativeToolTip": "AMST4.Carousel.MVC\\Migrations\\20240512150415_Add Product.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -187,93 +494,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ApplicationDataContextModelSnapshot.cs",
-              "DocumentMoniker": "D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Migrations\\ApplicationDataContextModelSnapshot.cs",
-              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Migrations\\ApplicationDataContextModelSnapshot.cs",
-              "ToolTip": "D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Migrations\\ApplicationDataContextModelSnapshot.cs",
-              "RelativeToolTip": "AMST4.Carousel.MVC\\Migrations\\ApplicationDataContextModelSnapshot.cs",
-              "ViewState": "AQIAADcAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "DocumentIndex": 29,
+              "Title": "20240422173730_First Migration.cs",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Migrations\\20240422173730_First Migration.cs",
+              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Migrations\\20240422173730_First Migration.cs",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\Migrations\\20240422173730_First Migration.cs",
+              "RelativeToolTip": "AMST4.Carousel.MVC\\Migrations\\20240422173730_First Migration.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAcAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T17:44:22.491Z"
+              "WhenOpened": "2024-04-22T17:37:30.76Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Models\\Category.cs",
-              "ToolTip": "D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Models\\Category.cs",
-              "RelativeToolTip": "AMST4.Carousel.MVC\\Models\\Category.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAUAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T17:44:05.391Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "AddCategory.cshtml",
-              "DocumentMoniker": "D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Category\\AddCategory.cshtml",
-              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Views\\Category\\AddCategory.cshtml",
-              "ToolTip": "D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Category\\AddCategory.cshtml",
-              "RelativeToolTip": "AMST4.Carousel.MVC\\Views\\Category\\AddCategory.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACUAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-12T14:36:36.351Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CategoryList.cshtml",
-              "DocumentMoniker": "D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Category\\CategoryList.cshtml",
-              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Views\\Category\\CategoryList.cshtml",
-              "ToolTip": "D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Category\\CategoryList.cshtml",
-              "RelativeToolTip": "AMST4.Carousel.MVC\\Views\\Category\\CategoryList.cshtml",
-              "ViewState": "AQIAAB4AAAAAAAAAAAAAAAkAAAAeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-01T13:28:24.862Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 30,
               "Title": "Microsoft.PackageDependencyResolution.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "ToolTip": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\Program Files\\dotnet\\sdk\\8.0.200\\Sdks\\Microsoft.NET.Sdk\\targets\\Microsoft.PackageDependencyResolution.targets",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
               "WhenOpened": "2024-04-24T17:41:20.797Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "_Carousel.cshtml",
-              "DocumentMoniker": "D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Shared\\_Carousel.cshtml",
-              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Views\\Shared\\_Carousel.cshtml",
-              "ToolTip": "D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Views\\Shared\\_Carousel.cshtml",
-              "RelativeToolTip": "AMST4.Carousel.MVC\\Views\\Shared\\_Carousel.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAABRwA4AAABAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-04-24T17:38:34.263Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "20240422173730_First Migration.cs",
-              "DocumentMoniker": "D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Migrations\\20240422173730_First Migration.cs",
-              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Migrations\\20240422173730_First Migration.cs",
-              "ToolTip": "D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Migrations\\20240422173730_First Migration.cs",
-              "RelativeToolTip": "AMST4.Carousel.MVC\\Migrations\\20240422173730_First Migration.cs",
-              "ViewState": "AQIAABIAAAAAAAAAAIBZwAcAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T17:37:30.76Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 31,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\appsettings.json",
               "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\appsettings.json",
-              "ToolTip": "D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\appsettings.json",
               "RelativeToolTip": "AMST4.Carousel.MVC\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -281,23 +530,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Program.cs",
-              "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\Program.cs",
-              "ToolTip": "D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\Program.cs",
-              "RelativeToolTip": "AMST4.Carousel.MVC\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-22T17:33:16.181Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 32,
               "Title": "appsettings.Development.json",
-              "DocumentMoniker": "D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\appsettings.Development.json",
               "RelativeDocumentMoniker": "AMST4.Carousel.MVC\\appsettings.Development.json",
-              "ToolTip": "D:\\2\u00B0Ano\\jeferson\\socorro\\AMST4.Carousel\\AMST4.Carousel.MVC\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\gabriel\\Desktop\\AMST4.Carousel\\AMST4.Carousel.MVC\\appsettings.Development.json",
               "RelativeToolTip": "AMST4.Carousel.MVC\\appsettings.Development.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
